@@ -1,0 +1,15 @@
+[package]
+name = "ornstein-uhlenbeck"
+version = "0.1.0"
+authors = ["bold <bold@cryptoguru.com>"]
+edition = "2018"
+license = "Apache-2.0/MIT"
+repository = "https://github.com/spebern/ornstein-uhlenbeck"
+documentation = "https://docs.rs/ornstein-uhlenbeck"
+description = "Ornstein–Uhlenbeck stochastic process"
+keywords = ["stochastic", "ornstein", "uhlenbeck", "noise", "reinforcement", "learning"]
+readme = "README.md"
+
+[dependencies]
+ndarray = "0.13"
+ndarray-rand = "0.11"
