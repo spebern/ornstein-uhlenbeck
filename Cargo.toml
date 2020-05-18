@@ -7,7 +7,7 @@ license = "Apache-2.0/MIT"
 repository = "https://github.com/spebern/ornstein-uhlenbeck"
 documentation = "https://docs.rs/ornstein-uhlenbeck"
 description = "Ornstein–Uhlenbeck stochastic process"
-keywords = ["stochastic", "ornstein", "uhlenbeck", "noise", "reinforcement", "learning"]
+keywords = ["stochastic", "ornstein", "uhlenbeck", "noise"]
 readme = "README.md"
 
 [dependencies]
