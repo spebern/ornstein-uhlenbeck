@@ -11,5 +11,5 @@ keywords = ["stochastic", "ornstein", "uhlenbeck", "noise"]
 readme = "README.md"
 
 [dependencies]
-ndarray = "0.13"
+ndarray = "0.15"
 ndarray-rand = "0.11"
