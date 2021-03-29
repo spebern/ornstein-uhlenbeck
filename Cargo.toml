@@ -12,4 +12,4 @@ readme = "README.md"
 
 [dependencies]
 ndarray = "0.13"
-ndarray-rand = "0.11"
+ndarray-rand = "0.14"
